@@ -1,0 +1,15 @@
+./test/Low\1.png|./test/Retouch\1.png
+./test/Low\111.png|./test/Retouch\111.png
+./test/Low\146.png|./test/Retouch\146.png
+./test/Low\179.png|./test/Retouch\179.png
+./test/Low\22.png|./test/Retouch\22.png
+./test/Low\23.png|./test/Retouch\23.png
+./test/Low\493.png|./test/Retouch\493.png
+./test/Low\547.png|./test/Retouch\547.png
+./test/Low\55.png|./test/Retouch\55.png
+./test/Low\665.png|./test/Retouch\665.png
+./test/Low\669.png|./test/Retouch\669.png
+./test/Low\748.png|./test/Retouch\748.png
+./test/Low\778.png|./test/Retouch\778.png
+./test/Low\780.png|./test/Retouch\780.png
+./test/Low\79.png|./test/Retouch\79.png
